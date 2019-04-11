@@ -17,3 +17,5 @@
 ### 添加环境变量的例子 PATH=$PATH:/home/christine/Scripts
 
 # chapter 7 linux文件权限
+# chapter 8 管理文件系统
+### 日志文件系统
